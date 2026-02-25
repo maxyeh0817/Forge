@@ -1,0 +1,49 @@
+{
+  "name": "{project_name}",
+  "path": "projects/{project_name}",
+  "created_at": "{created_at}",
+  "updated_at": "{updated_at}",
+
+  "status": "idle",
+
+  "context": {
+    "summary": "",
+    "requirement_digest": "",
+    "current_milestone": "",
+    "blockers": []
+  },
+
+  "spec": {
+    "current_version": "v0.1",
+    "status": "draft",
+    "path": "spec/current.md",
+    "open_questions": 0
+  },
+
+  "tasks": [],
+
+  "progress": {
+    "total_tasks": 0,
+    "completed": 0,
+    "in_progress": 0,
+    "pending": 0,
+    "completion_percentage": 0
+  },
+
+  "tech_stack": {
+    "frontend": "",
+    "backend": "",
+    "database": "",
+    "deployment": ""
+  },
+
+  "sessions": [],
+
+  "preference_overrides": {},
+
+  "forge_loop": {
+    "total_iterations": 0,
+    "consecutive_failures": 0,
+    "last_exit_reason": null
+  }
+}

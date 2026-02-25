@@ -1,0 +1,47 @@
+# Forge User Preferences
+# 此文件由系統自動維護，用戶可手動編輯。
+# 所有 agent 執行任務前應參考與其相關的區塊。
+
+tech_stack:
+  frontend: "Next.js 15 (App Router)"
+  styling: "Tailwind CSS"
+  language: "TypeScript (strict mode)"
+  backend: "Node.js / Next.js API Routes"
+  database: "依專案規模選擇（小型: SQLite, 中大型: PostgreSQL）"
+  deployment: "Zeabur"
+
+code_style:
+  naming:
+    variables: "camelCase"
+    components: "PascalCase"
+    constants: "UPPER_SNAKE_CASE"
+    files: "kebab-case (元件檔: PascalCase)"
+  indent: 2
+  quotes: "single"
+  semicolons: false
+  max_line_width: 100
+  import_order:
+    - external packages
+    - internal modules (@/)
+    - relative paths
+
+ui_preferences:
+  style: "極簡、乾淨"
+  color_scheme: "light/dark mode"
+  fonts: "系統字型優先"
+  animations: "微量、有目的的過渡效果"
+
+api_conventions:
+  style: "RESTful"
+  error_format: "{ error: { code, message, details? } }"
+  pagination: "cursor-based"
+
+communication:
+  language: "繁體中文"
+  style: "直接、簡潔"
+  when_uncertain: "提供建議 + 原因，讓用戶決定"
+
+project_conventions:
+  directory_structure: "feature-based"
+  documentation: "Markdown"
+  git_commits: "conventional commits"
