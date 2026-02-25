@@ -433,11 +433,3 @@ communication:
 ## 授權條款
 
 MIT
-
----
-
-<div align="center">
-
-**使用 [Claude Code](https://claude.ai/claude-code) 打造 —— Forge，將你的想法鍛造成現實。**
-
-</div>

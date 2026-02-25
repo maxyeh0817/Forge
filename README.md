@@ -434,11 +434,3 @@ Create a new `.md` file in `.claude/agents/` following the template at `.claude/
 ## License
 
 MIT
-
----
-
-<div align="center">
-
-**Built with [Claude Code](https://claude.ai/claude-code) — Forge your ideas into reality.**
-
-</div>
