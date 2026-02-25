@@ -1,9 +1,6 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td><img src="icon.png" width="80" /></td>
-<td><h1>Forge</h1></td>
-</tr></table>
+<h1><img src="icon.png" width="80" />&nbsp;Forge</h1>
 
 ### AI-Powered Development Team Orchestrator
 
