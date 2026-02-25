@@ -3,7 +3,7 @@
 # 所有 agent 執行任務前應參考與其相關的區塊。
 
 tech_stack:
-  frontend: "Next.js 15 (App Router)"
+  frontend: "Next.js 16 (App Router)"
   styling: "Tailwind CSS"
   language: "TypeScript (strict mode)"
   backend: "Node.js / Next.js API Routes"

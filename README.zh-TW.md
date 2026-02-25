@@ -393,7 +393,7 @@ Orchestrator **絕不會**直接寫程式碼。它只負責分派、審查和協
 
 ```yaml
 tech_stack:
-  frontend: "Next.js 15 (App Router)"
+  frontend: "Next.js 16 (App Router)"
   styling: "Tailwind CSS"
   language: "TypeScript (strict mode)"
   backend: "Node.js / Next.js API Routes"

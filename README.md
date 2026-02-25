@@ -394,7 +394,7 @@ Edit `.claude/state/preferences.yaml` to customize:
 
 ```yaml
 tech_stack:
-  frontend: "Next.js 15 (App Router)"
+  frontend: "Next.js 16 (App Router)"
   styling: "Tailwind CSS"
   language: "TypeScript (strict mode)"
   backend: "Node.js / Next.js API Routes"
