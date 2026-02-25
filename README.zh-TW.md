@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🔨 Forge
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+<td><img src="icon.png" width="80" /></td>
+<td><h1>Forge</h1></td>
+</tr></table>
 
 ### AI 驅動的開發團隊協調器
 
