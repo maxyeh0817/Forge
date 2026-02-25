@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="icon.png" width="80" />&nbsp;Forge</h1>
+<h1><img src="icon.png" width="80" align="center" />&nbsp;Forge</h1>
 
 ### AI 驅動的開發團隊協調器
 
